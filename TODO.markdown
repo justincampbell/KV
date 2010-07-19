@@ -1,0 +1,2 @@
+- Gracefully handle absense of memcached
+- Tests
