@@ -14,13 +14,13 @@
 
 ### Typical commands and responses
 	$this->kv->set('testkey','data');
-// TRUE
+TRUE
 	$this->kv->get('testkey');
-// 'data'
+'data'
 	$this->kv->del('testkey');
-// TRUE
+TRUE
 	$this->kv->get('testkey');
-// NULL
+NULL
 
 ### Objects and JSON
 
