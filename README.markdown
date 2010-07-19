@@ -10,7 +10,7 @@
 ## Usage
 
 ### Load model
-$this->load->model('kv');
+	$this->load->model('kv');
 
 ### Typical commands and responses
 	$this->kv->set('testkey','data');
