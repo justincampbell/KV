@@ -7,6 +7,9 @@
 		v LONGTEXT
 	);
 
+## Installation
+Copy kv.php to your application/models directory
+
 ## Usage
 
 ### Load the model
